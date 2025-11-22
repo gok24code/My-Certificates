@@ -14,7 +14,8 @@ the certificates i've got.
         <h1>Basic to Advanced Level Python Programming Language</h1>
         <a href = "https://www.btkakademi.gov.tr/api/service/v1/employee/certificates/issued/download/230311798?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMjgxNDEiLCJkb21haW4iOiJCVEsiLCJpc3MiOiJLQiIsInBpZCI6MzMwNDkxLCJvaWQiOjUxLCJleHAiOjE3NzA0Nzk2MTMsInV1aWQiOiJjZDA1Y2FiZS1kYmYwLTQwOTMtYThlMS0xOWJhOGNmN2IyMjgiLCJpYXQiOjE3NjI3MDM2MTMsImp0aSI6IjE2ZjliZjM5LTZiYjUtNDNmMy1iNmUwLTdkYWFlYWY3OGUyYiJ9.fTd0XiWTzir6lImICGsTN-sGxVMcqpomrrGCENG6HV1dfSRuZRHZxlZOX-rQdAQ14-baEit9bjaUeUvVPjlNfeKPucYBR9vjFmiCfNVHuzf7IJ5zjK40yjTZcrM3V7I06uWAPyww9Fgi_riiNp84PAgSj6H8N8kg406rgQctR2c3a982m9tFKb29WGD55qaZpfhVluV1mwMcJFwskoa7GpilSZn7ztjqPDIHqeOkPkBHXZ_nMxjIpalpP8otfBuxTpErzbU2QzjTMWlcyfzDL1T4POJU1tgL1e-0EK-QvfJO-ToPmPQaN-lmQ2WvDvqQ7kfKBcQNVubTtRMbVfXVLA">pdf link</a>
     </li>
-      <h1>Software Development Tools</h1>
-        <a href = "">pdf link</a>
+    <li>
+        <h1>Software Development Tools</h1>
+        <a href = "https://www.btkakademi.gov.tr/api/service/v1/employee/certificates/issued/download/230315998?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzMjgxNDEiLCJkb21haW4iOiJCVEsiLCJpc3MiOiJLQiIsInBpZCI6MzMwNDkxLCJvaWQiOjUxLCJleHAiOjE3NzEyMjcxODksInV1aWQiOiJjZDA1Y2FiZS1kYmYwLTQwOTMtYThlMS0xOWJhOGNmN2IyMjgiLCJpYXQiOjE3NjM0NTExODksImp0aSI6ImI5N2IyNzMwLWZlNjMtNDhjMi05OTI0LTE4NDJhNDFjNmQzNCJ9.XYs1YXL719zDEJAjSt1OrHTkHLxwQOGwQXetKfFyuV5mbQlH7TO1tx_L7_RAkJ7VyDWUuKHJZyLaO_buxOxzQuWCInDS1PdizCji-dU1NV5JIukJ1pceGdoFJfWDNGCoJYK76T9ZV7rUUROAH5aHWnY7vHAzTkGl6y0l3Hi9vMtxTWx8m3Bm9DIvoCS-lqSl30KJucyzbZ-cS2Yziwz4r7KC_L70YX_z3o9o_fo7f57I34Q7iFjiIbmPO_Ax49e5-NuJVNw2ZswgGhQ8gD8nP6bCFuflnYrpGaeklHoruD1VPwNdGAnGoJ7QBejsp4chTJYGEkTSouLbSPu4HI-QrA">pdf link</a>
     </li>
 </ul>
